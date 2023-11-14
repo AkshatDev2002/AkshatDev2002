@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshat Dev
 - 👀 I’m interested in Coding, Youtube Automation, Video creation, Prompt Writing, Video Editing, MMA
-- 🌱 I’m currently learning DevOps 
+- 🌱 I’m currently learning DevOps and React Native
   
 
 <!---
