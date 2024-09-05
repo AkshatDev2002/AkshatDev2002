@@ -1,5 +1,16 @@
-- 👋 Hi, I’m Akshat Dev
-- 👀 I’m interested in Coding, Youtube Automation, Video creation, Prompt Writing, Video Editing, MMA
+🔭 I’m currently working on:
+Improving cloud-based solutions and implementing microservices architecture.
+
+👯 I’m looking to collaborate on:
+Mern-stack projects
+
+🌱 I’m currently learning:
+AWS Services and PostgressSQL.
+
+💬 Ask me about:
+JavaScript, React, Nextjs, Node.js.
+
+
 
   
 
