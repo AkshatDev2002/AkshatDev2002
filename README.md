@@ -1,7 +1,7 @@
 ### 💫 About Me:
 
 🔭 I’m currently working on:
-Improving cloud-based solutions and implementing microservices architecture.
+The latest React.js features to enhance my skillset. I'm dedicated to staying ahead of the curve in Full Stack Development, integrating new technologies, and delivering robust, scalable solutions.
 
 👯 I’m looking to collaborate on:
 Mern-stack projects
