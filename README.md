@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning:
     
-    AWS Services and PostgressSQL.
+    Three Js
 
 💬 Ask me about:
 
