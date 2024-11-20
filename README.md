@@ -14,7 +14,7 @@
 
 💬 Ask me about:
 
-    JavaScript, React, Nextjs, Node.js.
+    JavaScript, React,Express.js, Nextjs, Node.js.
 
 
 
