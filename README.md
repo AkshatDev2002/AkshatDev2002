@@ -10,7 +10,6 @@ Focused on solving real problems, optimizing systems, and crafting scalable, mod
 
 ---
 
-## 📊 Dashboard Overview
 
 ### 🔭 Currently Working On
 - 🚀 **Enterprise Data Pipelines & ETL Workflows**  
