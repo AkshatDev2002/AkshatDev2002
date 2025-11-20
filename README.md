@@ -1,29 +1,52 @@
-💫 About Me
+<h2 align="center">💫 About Me</h2>
 
-👨🏻‍💻 Data Engineer (Ab Initio) & MERN Stack Developer
-I build reliable data pipelines by day and sleek full-stack web experiences by night. I love solving real problems, optimizing systems, and creating products that feel fast, modern, and intentional.
+<div align="center">
 
-🔭 Currently Working On
+🧑‍💻 <b>Data Engineer (Ab Initio)</b> & <b>MERN Stack Developer</b>  
+I build reliable data pipelines by day and sleek full-stack experiences by night.  
+Focused on solving real problems, optimizing systems, and crafting scalable, modern apps.
 
-🚀 Enterprise-grade data pipelines & ETL workflows using Ab Initio, SQL, and Unix to keep high-volume systems running smoothly and efficiently.
-🎨 Modern web experiences using React, Next.js, Tailwind, and animation libraries.
+</div>
 
-👯 Looking to Collaborate On
+---
 
-🤝 MERN-stack projects, data-driven applications, and anything that blends strong engineering with clean design.
+## 📊 Dashboard Overview
 
-🌱 Currently Learning
+### 🔭 Currently Working On
+- 🚀 **Enterprise Data Pipelines & ETL Workflows**  
+  Ab Initio • SQL • Unix/Linux • Multi-environment orchestration  
+- 🎨 **Modern Web Experiences**  
+  React • Next.js • Tailwind • Framer Motion
 
-❄️ Snowflake — mastering cloud-scale data warehousing & modern ELT workflows.
-🌀 Three.js — pushing into interactive 3D experiences and advanced front-end visuals.
+---
 
+### 👯 Looking to Collaborate On
+- 🤝 **MERN-stack projects**  
+- 📈 **Data-driven apps**  
+- 🔧 Anything that blends strong back-end engineering with polished UI
 
-💬 Ask Me About
+---
 
-💡 JavaScript • React • Next.js • Node.js • Express.js
-📦 Ab Initio • ETL • SQL • Data Pipelines
-🐧 Unix/Linux • System Debugging • Pipeline Optimization
+### 🌱 Currently Learning
+- ❄️ **Snowflake** — cloud-scale warehousing & ELT  
+- 🌀 **Three.js** — interactive 3D experiences & immersive visuals
 
-🧩 Recent Projects
+---
 
-AnalyzeByte — High-performance landing page with Next.js, animations, & theme-aware components.
+### 💬 Ask Me About
+- 💡 JavaScript • React • Next.js • Node.js • Express.js  
+- 📦 Ab Initio • ETL • SQL • Data Pipelines  
+- 🐧 Unix/Linux fundamentals, debugging & performance tuning
+
+---
+
+## 🧩 Recent Projects
+
+### 🔹 AnalyzeByte  
+High-performance landing page built with **Next.js**, **Framer Motion**, theme-aware components, and optimized render pipelines.
+
+---
+
+<p align="center">
+  🚀 <b>Always building. Always learning. Always leveling up.</b>
+</p>
