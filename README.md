@@ -1,26 +1,29 @@
-### 💫 About Me:
+💫 About Me
 
-🔭 I’m currently working on:
+👨🏻‍💻 Data Engineer (Ab Initio) & MERN Stack Developer
+I build reliable data pipelines by day and sleek full-stack web experiences by night. I love solving real problems, optimizing systems, and creating products that feel fast, modern, and intentional.
 
-    The latest React.js features to enhance my skillset. I'm dedicated to staying ahead of the curve in Full Stack Development, integrating new technologies, and delivering robust, scalable solutions.
+🔭 Currently Working On
 
-👯 I’m looking to collaborate on:
-   
-    Mern-stack projects
+🚀 Enterprise-grade data pipelines & ETL workflows using Ab Initio, SQL, and Unix to keep high-volume systems running smoothly and efficiently.
+🎨 Modern web experiences using React, Next.js, Tailwind, and animation libraries.
 
-🌱 I’m currently learning:
-    
-    Three Js
+👯 Looking to Collaborate On
 
-💬 Ask me about:
+🤝 MERN-stack projects, data-driven applications, and anything that blends strong engineering with clean design.
 
-    JavaScript, React,Express.js, Nextjs, Node.js.
+🌱 Currently Learning
+
+❄️ Snowflake — mastering cloud-scale data warehousing & modern ELT workflows.
+🌀 Three.js — pushing into interactive 3D experiences and advanced front-end visuals.
 
 
+💬 Ask Me About
 
-  
+💡 JavaScript • React • Next.js • Node.js • Express.js
+📦 Ab Initio • ETL • SQL • Data Pipelines
+🐧 Unix/Linux • System Debugging • Pipeline Optimization
 
-<!---
-AkshatDev2002/AkshatDev2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧩 Recent Projects
+
+AnalyzeByte — High-performance landing page with Next.js, animations, & theme-aware components.
