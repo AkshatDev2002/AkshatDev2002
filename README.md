@@ -3,8 +3,6 @@
 <div align="center">
 
 🧑‍💻 <b>Frontend Developer</b> & <b>MERN Stack Developer</b>  
-I build reliable data pipelines by day and sleek full-stack experiences by night.  
-Focused on solving real problems, optimizing systems, and crafting scalable, modern apps.
 
 </div>
 
