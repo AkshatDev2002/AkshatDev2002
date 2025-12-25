@@ -34,7 +34,7 @@
 
 ## 🧩 Recent Projects
 
-### 🔹 AnalyzeByte  
+### 🔹 Vyanta Global's Official Website  
 High-performance landing page built with **Next.js**, **Framer Motion**, theme-aware components, and optimized render pipelines.
 
 ---
